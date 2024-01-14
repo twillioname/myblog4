@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Table(name = "Blogapi")
-public class Registration {
+public class Lead {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
